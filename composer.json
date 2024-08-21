@@ -1,0 +1,18 @@
+{
+    "name": "achi/upload-convert-webp",
+    "description": "A simple plugin to optimize image Wordpress upload",
+    "type": "project",
+	"license": "GPLv3 or later",
+    "authors": [
+		{
+			"name": "Sutthipong Nuanma"
+		}
+	],
+    "require": {
+    },
+    "autoload": {
+		"psr-4": {
+			"Achi\\UploadConvertWebp\\": ""
+		}
+	}
+}
